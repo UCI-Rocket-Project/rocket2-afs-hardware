@@ -24,3 +24,5 @@ fabrication/
 *.zip
 *.csv
 *.xml
+\#auto_saved_files\#
+UCIRP-Logo.svg
